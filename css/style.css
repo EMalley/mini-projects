@@ -1,2 +1,7 @@
 body{font-family:'Poppins', sans-serif;}
-.card{max-width: 20rem;}
+
+@media(min-width:800px){
+    .container{
+        width:800px;
+    }
+}
